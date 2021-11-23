@@ -1,0 +1,6 @@
+1234, kumar, 02/11/1998, 23, male, sbs, mandi
+1002, Avinash, 02/11/1998, 23, Male, MMC, Chhatarpur
+2003, Yadav, 01/1/1997, 25, Male, MMCS, Bhopal
+9004, Deepak, 01/1/1995, 28, Male, DPS, Patna
+6009, Arpit, 12/3/1997, 23, Male, DPS, Balagath
+2015, Deepak kumar, 22/01/1997, 24, Male, DPS, Patna
